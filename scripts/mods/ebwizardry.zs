@@ -443,7 +443,7 @@ RecipeBuilder.get("mage")
   .addTool(<ore:artisansQuill>, 150)
   .addTool(<ore:artisansGrimoire>, 150)
   .addTool(<ore:artisansMortar>, 150)
-  .addOutput(<ebwizardry:arcane_tome:2>)
+  .addOutput(<ebwizardry:arcane_tome:3>)
   .create();
 
 recipes.addShaped("magicstic", <ancientspellcraft:wand_channeling>, [
